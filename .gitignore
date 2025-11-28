@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+vehicles_env/
+env/
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+dist/
+build/
