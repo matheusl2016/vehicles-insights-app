@@ -11,7 +11,7 @@ The goal is to build a Streamlit web application to visualize and explore data f
 ## Project Structure
 Sprint5/
 ├── app.py
-├── vehicles_us.csv
+├── vehicles.csv
 ├── requirements.txt
 ├── .streamlit/
 │ └── config.toml
@@ -37,7 +37,7 @@ O objetivo é construir um aplicativo web em Streamlit para visualizar dados con
 ## Estrutura do projeto
 Sprint5/
 ├── app.py
-├── vehicles_us.csv
+├── vehicles.csv
 ├── requirements.txt
 ├── .streamlit/
 │ └── config.toml
