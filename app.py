@@ -6,7 +6,7 @@ import streamlit as st
 st.header("Dashboard — Anúncios de Veículos")
 
 # lendo os dados
-car_data = pd.read_csv('vehicles_us.csv')
+car_data = pd.read_csv('vehicles.csv')
 
 # HISTOGRAMA
 hist_button = st.button('Criar histograma')
