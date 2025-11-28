@@ -18,7 +18,7 @@ Sprint5/
 └── README.md
 
 ## Deploy
-The application URL will be added after deployment on Render.
+URL: https://vehicles-insights-app.onrender.com/
 
 
 ---
@@ -44,4 +44,4 @@ Sprint5/
 └── README.md
 
 ## Deploy
-A URL do aplicativo será adicionada após a publicação no Render.
+URL: : https://vehicles-insights-app.onrender.com/
